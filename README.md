@@ -7,7 +7,7 @@ I have splited code not by the "steps" but by practical tasks implemented.
 The main purpose of my learning of this language is for the math implementations with maximum 
 usage of the SIMD instructions. This is not for actual usefulness but for the sake of learning.
 
-> **Disclaimer:** This is a disclaimer. This example is not replacement of actual literature and learning, but is supplementary
+> **Disclaimer:** This example is not replacement of actual literature and learning, but is supplementary
 
 
 ## Tasks implemented:
